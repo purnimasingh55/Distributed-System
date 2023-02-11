@@ -1,0 +1,15 @@
+Currently, gaming is a large source of bandwidth and programming resources. Games that
+can be played over the Internet are very popular. A project could be done on what is required
+to run games like that over a network. Programming styles could be investigated as well (i.e.,
+what language is usually used, what type of message passing/shared memory is used, etc). A
+game like this is not a true operating system in itself but is still an example of distributed
+computing. The only motivation for a project like this is that it could be interesting and fun.
+
+
+topics to be included: 
+
+1. Security
+2. Consistecy
+3. Scaling requirements
+4. Synchronization
+5. Peer to peer architecture for massive multiplayer online games
